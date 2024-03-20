@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "caption": "stranger things",
+      "url": "https://www.youtube.com/embed/b9EkMc79ZSU?si=Bh79vLZsDELyN62f&autoplay=1",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/spoiler-1655228691.png",
+      "id": 2
+    },
+    {
+      "caption": "La La Land",
+      "url": "https://www.youtube.com/embed/cZAw8qxn0ZE?si=Bh79vLZsDELyN62f&autoplay=1",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12386480_v_h9_ba.jpg",
+      "id": 4
+    },
+    {
+      "caption": "The Vampire Diaries",
+      "url": "https://www.youtube.com/embed/BmVmhjjkN4E?si=Bh79vLZsDELyN62f&autoplay=1",
+      "image": "https://c4.wallpaperflare.com/wallpaper/766/840/841/the-vampire-diaries-2012-hd-wallpaper-preview.jpg",
+      "id": 5
+    },
+    {
+      "caption": "Say Yes To Heaven",
+      "url": "https://www.youtube.com/embed/MiAoetOXKcY?si=Bh79vLZsDELyN62f&autoplay=1",
+      "image": "https://i1.sndcdn.com/artworks-2DzBAgQZYFRP7X8n-FSDRBA-t500x500.jpg",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "name": "Music",
+      "videos": [
+        {
+          "caption": "Say Yes To Heaven",
+          "url": "https://www.youtube.com/embed/MiAoetOXKcY?si=Bh79vLZsDELyN62f&autoplay=1",
+          "image": "https://i1.sndcdn.com/artworks-2DzBAgQZYFRP7X8n-FSDRBA-t500x500.jpg",
+          "id": 7
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "La La Land",
+      "url": "https://www.youtube.com/embed/cZAw8qxn0ZE?si=Bh79vLZsDELyN62f&autoplay=1",
+      "datetime": "2024-03-13T06:35:09.661Z",
+      "id": 1
+    }
+  ]
+}
